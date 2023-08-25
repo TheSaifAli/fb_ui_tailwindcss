@@ -1,14 +1,5 @@
 {
-  "scripts": {
-    "start": "vite",
-    "build": "vite build"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.24",
-    "tailwindcss": "^3.3.2",
-    "vite": "^4.3.9"
-  },
+  "homepage": "",
   "name": "facbook-login-clone",
   "version": "1.0.0",
   "main": "postcss.config.js",
@@ -92,6 +83,16 @@
     "util-deprecate": "^1.0.2",
     "wrappy": "^1.0.2",
     "yaml": "^2.3.1"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9"
   },
   "keywords": [],
   "author": "",
